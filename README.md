@@ -1,3 +1,6 @@
+OPEN QUIZ.html
+Ik heb geen tijd om die file te hernoemen en durf niet met zekerheid te zeggen hoeveel JS ik daarna zou moeten aanpassen...
+
 DOTA App
 Nadat ik alle JS tutorial gemaakt had, wilde ik kijken of ik handmatig een link kon leggen emt de API van een spel dat ik graag speel. DOTA 2.
 Blijkbaar kan dit wel maar het was een beste ontdekkingstoch door arrays, functies, ongeduldige requests en vele, vele debug berichten.
